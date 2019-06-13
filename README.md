@@ -1,7 +1,7 @@
 # CryptM8
 An open-source Python encryption suite.
 
-This is my first fully featured Python programming project and also my first publicly posted Python project so when using the program it is safe to assume I 'DO NOT' know what I am doing and as such I would highly recommend securely backing up files before encrypting them via CryptM8 as I cannot be held responsible for any data lost due to the use of this program, *USE OF CRYPTM8 IS OF OWN RISK*.
+This is my first fully featured Python programming project and also my first publicly posted Python project so when using the program it is safe to assume I 'DO NOT' know what I am doing and as such I would highly recommend securely backing up files before encrypting them via CryptM8 as I cannot be held responsible for any data lost due to the use of this program, *USE OF CRYPTM8 IS AT OWN RISK*.
 
 As this is my first published Python project there is probably many places where I could improve both security & readability/conciseness of the code however for a first project in an unfamiliar programming language I am quite proud of CryptM8 and have shared this project on Github to both give it a permanent home but also so people can freely modify/update and maintain the code as they see fit.
 
